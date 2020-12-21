@@ -1,0 +1,37 @@
+version: "3.9"
+services:
+ web:
+  container_name: web
+  build: .
+  ports:
+   - "8080:80"
+  volumes:
+   - ./www:/var/www/html
+   - ./sites-available:/etc/apache2/sites-available
+   - ./logvolume:/var/log
+  depends_on:
+   - mysql
+  environment:
+   DOCKER_PMA_HOST: mysql
+   DOCKER_PMA_USER: 'root'
+   DOCKER_PMA_PASSWORD: '1q2w3e4r5t'
+   DOCKER_PMA_PORT: "3306"
+  links:
+   - mysql
+ mysql:
+  container_name: mysql
+  image: mysql:5.7
+  restart: always
+  environment: 
+   MYSQL_DATABASE: 'homestead'
+   MYSQL_USER: 'homestead'
+   MYSQL_PASSWORD: 'secret'
+   MYSQL_ROOT_PASSWORD: '1q2w3e4r5t'
+  ports:
+   - "3306"
+  volumes:
+   - ./databases/:/var/lib/mysql
+volumes:
+ databases:
+ logvolume:
+
