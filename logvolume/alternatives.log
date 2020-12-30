@@ -1,0 +1,24 @@
+update-alternatives 2020-12-21 19:51:03: run with --set php /usr/bin/php7.1
+update-alternatives 2020-12-21 19:51:03: status of link group /usr/bin/php set to manual
+update-alternatives 2020-12-21 19:51:03: link group php updated to point to /usr/bin/php7.1
+update-alternatives 2020-12-21 20:04:26: run with --set php /usr/bin/php7.1
+update-alternatives 2020-12-21 20:58:32: run with --set php /usr/bin/php7.1
+update-alternatives 2020-12-21 20:58:32: status of link group /usr/bin/php set to manual
+update-alternatives 2020-12-21 20:58:32: link group php updated to point to /usr/bin/php7.1
+update-alternatives 2020-12-22 12:10:59: run with --set php /usr/bin/php7.1
+update-alternatives 2020-12-22 12:10:59: status of link group /usr/bin/php set to manual
+update-alternatives 2020-12-22 12:10:59: link group php updated to point to /usr/bin/php7.1
+update-alternatives 2020-12-22 12:55:57: run with --set php /usr/bin/php7.4
+update-alternatives 2020-12-22 12:55:57: link group php updated to point to /usr/bin/php7.4
+update-alternatives 2020-12-23 13:25:01: run with --set php /usr/bin/php7.1
+update-alternatives 2020-12-23 13:25:01: link group php updated to point to /usr/bin/php7.1
+update-alternatives 2020-12-23 13:30:24: run with --set php /usr/bin/php7.1
+update-alternatives 2020-12-23 13:30:24: status of link group /usr/bin/php set to manual
+update-alternatives 2020-12-23 13:30:24: link group php updated to point to /usr/bin/php7.1
+update-alternatives 2020-12-23 14:31:20: run with --set php /usr/bin/php7.4
+update-alternatives 2020-12-23 14:31:20: link group php updated to point to /usr/bin/php7.4
+update-alternatives 2020-12-24 13:31:47: run with --set php /usr/bin/php7.1
+update-alternatives 2020-12-24 13:31:47: status of link group /usr/bin/php set to manual
+update-alternatives 2020-12-24 13:31:47: link group php updated to point to /usr/bin/php7.1
+update-alternatives 2020-12-24 14:36:55: run with --set php /usr/bin/php7.1
+update-alternatives 2020-12-24 15:27:17: run with --set php /usr/bin/php7.1

@@ -3,6 +3,7 @@ FROM ubuntu:20.04
 ENV DEBIAN_FRONTEND noninteractive
 
 RUN \
+  rm -rf /var/lib/apt/lists/* && \
   apt-get update && apt-get -y dist-upgrade && apt-get update && \ 
   apt-get upgrade -y && apt-get install -y software-properties-common wget unzip && \
   add-apt-repository ppa:ondrej/php && apt-get install -y composer apache2 libapache2-mod-fcgid \
@@ -19,10 +20,11 @@ RUN \
   rm -rf /var/lib/apt/lists/*
 
 COPY configurations/www-7.1.conf /etc/php/7.1/fpm/pool.d/www.conf
+COPY configurations/php-7.1.ini /etc/php/7.1/fpm/php.ini
 COPY configurations/phpmyadmin.conf /etc/apache2/conf-available/
 COPY configurations/config.inc.php /usr/share/phpmyadmin/config.inc.php
 COPY configurations/common.sh /common.sh
-RUN chmod +x /common.sh && a2enconf phpmyadmin
+RUN chmod +x /common.sh
 
 
 

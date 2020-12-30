@@ -1,0 +1,30 @@
+[21-Dec-2020 13:38:01 UTC] PHP Warning:  require(/var/www/html/Opus2Mortgage/bootstrap/../vendor/autoload.php): failed to open stream: No such file or directory in /var/www/html/Opus2Mortgage/bootstrap/autoload.php on line 17
+[21-Dec-2020 13:38:01 UTC] PHP Fatal error:  require(): Failed opening required '/var/www/html/Opus2Mortgage/bootstrap/../vendor/autoload.php' (include_path='.:/usr/share/php') in /var/www/html/Opus2Mortgage/bootstrap/autoload.php on line 17
+[21-Dec-2020 19:56:35 UTC] PHP Warning:  require(/var/www/html/Opus2Mortgage/bootstrap/../vendor/autoload.php): failed to open stream: No such file or directory in /var/www/html/Opus2Mortgage/bootstrap/autoload.php on line 17
+[21-Dec-2020 19:56:35 UTC] PHP Fatal error:  require(): Failed opening required '/var/www/html/Opus2Mortgage/bootstrap/../vendor/autoload.php' (include_path='.:/usr/share/php') in /var/www/html/Opus2Mortgage/bootstrap/autoload.php on line 17
+[22-Dec-2020 13:15:02 UTC] PHP Fatal error:  Uncaught TypeError: Return value of Symfony\Component\HttpFoundation\Response::setStatusCode() must be an instance of Symfony\Component\HttpFoundation\object, instance of Symfony\Component\HttpFoundation\Response returned in /var/www/html/dos-admin/vendor/symfony/http-foundation/Response.php:475
+Stack trace:
+#0 /var/www/html/dos-admin/vendor/symfony/http-foundation/Response.php(219): Symfony\Component\HttpFoundation\Response->setStatusCode(500)
+#1 /var/www/html/dos-admin/vendor/symfony/http-foundation/Response.php(239): Symfony\Component\HttpFoundation\Response->__construct('<!doctype html>...', 500, Array)
+#2 /var/www/html/dos-admin/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(470): Symfony\Component\HttpFoundation\Response::create('<!doctype html>...', 500, Array)
+#3 /var/www/html/dos-admin/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(447): Illuminate\Foundation\Exceptions\Handler->convertExceptionToResponse(Object(ErrorException))
+#4 /var/www/html/d in /var/www/html/dos-admin/vendor/symfony/http-foundation/Response.php on line 475
+[22-Dec-2020 13:15:02 UTC] PHP Fatal error:  Uncaught TypeError: Return value of Symfony\Component\HttpFoundation\Response::setStatusCode() must be an instance of Symfony\Component\HttpFoundation\object, instance of Symfony\Component\HttpFoundation\Response returned in /var/www/html/dos-admin/vendor/symfony/http-foundation/Response.php:475
+Stack trace:
+#0 /var/www/html/dos-admin/vendor/symfony/http-foundation/Response.php(219): Symfony\Component\HttpFoundation\Response->setStatusCode(500)
+#1 /var/www/html/dos-admin/vendor/symfony/http-foundation/Response.php(239): Symfony\Component\HttpFoundation\Response->__construct('<!doctype html>...', 500, Array)
+#2 /var/www/html/dos-admin/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(470): Symfony\Component\HttpFoundation\Response::create('<!doctype html>...', 500, Array)
+#3 /var/www/html/dos-admin/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(447): Illuminate\Foundation\Exceptions\Handler->convertExceptionToResponse(Object(ErrorException))
+#4 /var/www/html/d in /var/www/html/dos-admin/vendor/symfony/http-foundation/Response.php on line 475
+[23-Dec-2020 13:30:28 UTC] PHP Warning:  require(/var/www/html/Opus2Mortgage/bootstrap/../vendor/autoload.php): failed to open stream: No such file or directory in /var/www/html/Opus2Mortgage/bootstrap/autoload.php on line 17
+[23-Dec-2020 13:30:28 UTC] PHP Fatal error:  require(): Failed opening required '/var/www/html/Opus2Mortgage/bootstrap/../vendor/autoload.php' (include_path='.:/usr/share/php') in /var/www/html/Opus2Mortgage/bootstrap/autoload.php on line 17
+[23-Dec-2020 13:30:28 UTC] PHP Warning:  require(/var/www/html/Opus2Mortgage/bootstrap/../vendor/autoload.php): failed to open stream: No such file or directory in /var/www/html/Opus2Mortgage/bootstrap/autoload.php on line 17
+[23-Dec-2020 13:30:28 UTC] PHP Fatal error:  require(): Failed opening required '/var/www/html/Opus2Mortgage/bootstrap/../vendor/autoload.php' (include_path='.:/usr/share/php') in /var/www/html/Opus2Mortgage/bootstrap/autoload.php on line 17
+[23-Dec-2020 13:30:30 UTC] PHP Warning:  require(/var/www/html/Opus2Mortgage/bootstrap/../vendor/autoload.php): failed to open stream: No such file or directory in /var/www/html/Opus2Mortgage/bootstrap/autoload.php on line 17
+[23-Dec-2020 13:30:30 UTC] PHP Fatal error:  require(): Failed opening required '/var/www/html/Opus2Mortgage/bootstrap/../vendor/autoload.php' (include_path='.:/usr/share/php') in /var/www/html/Opus2Mortgage/bootstrap/autoload.php on line 17
+[23-Dec-2020 13:30:30 UTC] PHP Warning:  require(/var/www/html/Opus2Mortgage/bootstrap/../vendor/autoload.php): failed to open stream: No such file or directory in /var/www/html/Opus2Mortgage/bootstrap/autoload.php on line 17
+[23-Dec-2020 13:30:30 UTC] PHP Fatal error:  require(): Failed opening required '/var/www/html/Opus2Mortgage/bootstrap/../vendor/autoload.php' (include_path='.:/usr/share/php') in /var/www/html/Opus2Mortgage/bootstrap/autoload.php on line 17
+[23-Dec-2020 13:31:15 UTC] PHP Warning:  require(/var/www/html/Opus2Mortgage/bootstrap/../vendor/autoload.php): failed to open stream: No such file or directory in /var/www/html/Opus2Mortgage/bootstrap/autoload.php on line 17
+[23-Dec-2020 13:31:15 UTC] PHP Fatal error:  require(): Failed opening required '/var/www/html/Opus2Mortgage/bootstrap/../vendor/autoload.php' (include_path='.:/usr/share/php') in /var/www/html/Opus2Mortgage/bootstrap/autoload.php on line 17
+[23-Dec-2020 13:31:15 UTC] PHP Warning:  require(/var/www/html/Opus2Mortgage/bootstrap/../vendor/autoload.php): failed to open stream: No such file or directory in /var/www/html/Opus2Mortgage/bootstrap/autoload.php on line 17
+[23-Dec-2020 13:31:15 UTC] PHP Fatal error:  require(): Failed opening required '/var/www/html/Opus2Mortgage/bootstrap/../vendor/autoload.php' (include_path='.:/usr/share/php') in /var/www/html/Opus2Mortgage/bootstrap/autoload.php on line 17
