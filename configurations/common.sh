@@ -1,5 +1,5 @@
 #!/bin/bash
-echo "install plugin and setup wordpress ..."
+echo "Running Bash Script ......"
 
 update-alternatives --set php /usr/bin/php7.1
 
