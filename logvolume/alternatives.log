@@ -1,24 +1,329 @@
-update-alternatives 2020-12-21 19:51:03: run with --set php /usr/bin/php7.1
-update-alternatives 2020-12-21 19:51:03: status of link group /usr/bin/php set to manual
-update-alternatives 2020-12-21 19:51:03: link group php updated to point to /usr/bin/php7.1
-update-alternatives 2020-12-21 20:04:26: run with --set php /usr/bin/php7.1
-update-alternatives 2020-12-21 20:58:32: run with --set php /usr/bin/php7.1
-update-alternatives 2020-12-21 20:58:32: status of link group /usr/bin/php set to manual
-update-alternatives 2020-12-21 20:58:32: link group php updated to point to /usr/bin/php7.1
-update-alternatives 2020-12-22 12:10:59: run with --set php /usr/bin/php7.1
-update-alternatives 2020-12-22 12:10:59: status of link group /usr/bin/php set to manual
-update-alternatives 2020-12-22 12:10:59: link group php updated to point to /usr/bin/php7.1
-update-alternatives 2020-12-22 12:55:57: run with --set php /usr/bin/php7.4
-update-alternatives 2020-12-22 12:55:57: link group php updated to point to /usr/bin/php7.4
-update-alternatives 2020-12-23 13:25:01: run with --set php /usr/bin/php7.1
-update-alternatives 2020-12-23 13:25:01: link group php updated to point to /usr/bin/php7.1
-update-alternatives 2020-12-23 13:30:24: run with --set php /usr/bin/php7.1
-update-alternatives 2020-12-23 13:30:24: status of link group /usr/bin/php set to manual
-update-alternatives 2020-12-23 13:30:24: link group php updated to point to /usr/bin/php7.1
-update-alternatives 2020-12-23 14:31:20: run with --set php /usr/bin/php7.4
-update-alternatives 2020-12-23 14:31:20: link group php updated to point to /usr/bin/php7.4
-update-alternatives 2020-12-24 13:31:47: run with --set php /usr/bin/php7.1
-update-alternatives 2020-12-24 13:31:47: status of link group /usr/bin/php set to manual
-update-alternatives 2020-12-24 13:31:47: link group php updated to point to /usr/bin/php7.1
-update-alternatives 2020-12-24 14:36:55: run with --set php /usr/bin/php7.1
-update-alternatives 2020-12-24 15:27:17: run with --set php /usr/bin/php7.1
+update-alternatives 2021-06-28 11:21:37: run with --set php /usr/bin/php7.1
+update-alternatives 2021-06-29 11:45:53: run with --set php /usr/bin/php7.1
+update-alternatives 2021-06-29 16:07:28: run with --set php /usr/bin/php7.1
+update-alternatives 2021-06-30 11:24:36: run with --set php /usr/bin/php7.1
+update-alternatives 2021-07-01 11:55:55: run with --set php /usr/bin/php7.1
+update-alternatives 2021-07-02 11:35:54: run with --set php /usr/bin/php7.1
+update-alternatives 2021-07-05 10:47:33: run with --set php /usr/bin/php7.1
+update-alternatives 2021-07-05 17:47:23: run with --set php /usr/bin/php7.1
+update-alternatives 2021-07-06 10:50:40: run with --set php /usr/bin/php7.1
+update-alternatives 2021-07-07 10:57:01: run with --set php /usr/bin/php7.1
+update-alternatives 2021-07-08 10:26:56: run with --set php /usr/bin/php7.1
+update-alternatives 2021-07-09 10:31:21: run with --set php /usr/bin/php7.1
+update-alternatives 2021-07-09 11:18:42: run with --set php /usr/bin/php7.1
+update-alternatives 2021-07-09 12:24:05: run with --set php /usr/bin/php7.1
+update-alternatives 2021-07-09 13:36:46: run with --set php /usr/bin/php7.1
+update-alternatives 2021-07-12 10:38:47: run with --set php /usr/bin/php7.1
+update-alternatives 2021-07-13 10:26:57: run with --set php /usr/bin/php7.1
+update-alternatives 2021-07-13 16:10:24: run with --set php /usr/bin/php7.1
+update-alternatives 2021-07-14 10:40:14: run with --set php /usr/bin/php7.1
+update-alternatives 2021-07-14 18:25:35: run with --set php /usr/bin/php7.1
+update-alternatives 2021-07-14 18:25:35: status of link group /usr/bin/php set to manual
+update-alternatives 2021-07-14 18:25:35: link group php updated to point to /usr/bin/php7.1
+update-alternatives 2021-07-15 10:47:59: run with --set php /usr/bin/php7.1
+update-alternatives 2021-07-15 11:57:41: run with --set php /usr/bin/php7.1
+update-alternatives 2021-07-15 19:53:58: run with --set php /usr/bin/php7.1
+update-alternatives 2021-07-15 20:06:55: run with --set php /usr/bin/php7.1
+update-alternatives 2021-07-15 21:39:26: run with --set php /usr/bin/php7.1
+update-alternatives 2021-07-16 11:41:14: run with --set php /usr/bin/php7.1
+update-alternatives 2021-07-16 15:55:02: run with --set php /usr/bin/php7.1
+update-alternatives 2021-07-17 18:50:56: run with --set php /usr/bin/php7.1
+update-alternatives 2021-07-26 11:50:31: run with --set php /usr/bin/php7.1
+update-alternatives 2021-07-26 13:00:42: run with --set php /usr/bin/php7.1
+update-alternatives 2021-07-27 10:34:00: run with --set php /usr/bin/php7.1
+update-alternatives 2021-07-28 11:00:37: run with --set php /usr/bin/php7.1
+update-alternatives 2021-07-29 11:10:10: run with --set php /usr/bin/php7.1
+update-alternatives 2021-07-30 13:46:27: run with --set php /usr/bin/php7.1
+update-alternatives 2021-07-30 17:10:07: run with --set php /usr/bin/php7.1
+update-alternatives 2021-07-30 17:10:07: status of link group /usr/bin/php set to manual
+update-alternatives 2021-07-30 17:10:07: link group php updated to point to /usr/bin/php7.1
+update-alternatives 2021-07-30 17:28:17: run with --set php /usr/bin/php7.1
+update-alternatives 2021-07-30 18:12:41: run with --set php /usr/bin/php7.1
+update-alternatives 2021-07-30 18:12:41: status of link group /usr/bin/php set to manual
+update-alternatives 2021-07-30 18:12:41: link group php updated to point to /usr/bin/php7.1
+update-alternatives 2021-07-30 18:37:51: run with --set php /usr/bin/php7.1
+update-alternatives 2021-07-30 18:39:48: run with --set php /usr/bin/php7.1
+update-alternatives 2021-07-30 18:41:44: run with --set php /usr/bin/php7.1
+update-alternatives 2021-08-02 15:49:55: run with --set php /usr/bin/php7.1
+update-alternatives 2021-08-03 11:54:13: run with --set php /usr/bin/php7.1
+update-alternatives 2021-08-03 13:24:42: run with --set php /usr/bin/php7.1
+update-alternatives 2021-08-04 11:53:03: run with --set php /usr/bin/php7.1
+update-alternatives 2021-08-04 18:02:34: run with --set php /usr/bin/php7.1
+update-alternatives 2021-08-04 18:02:34: status of link group /usr/bin/php set to manual
+update-alternatives 2021-08-04 18:02:34: link group php updated to point to /usr/bin/php7.1
+update-alternatives 2021-08-05 10:29:57: run with --set php /usr/bin/php7.1
+update-alternatives 2021-08-05 10:59:11: run with --set php /usr/bin/php7.1
+update-alternatives 2021-08-05 12:57:13: run with --set php /usr/bin/php7.1
+update-alternatives 2021-08-05 13:58:30: run with --set php /usr/bin/php7.1
+update-alternatives 2021-08-05 14:59:40: run with --set php /usr/bin/php7.1
+update-alternatives 2021-08-05 15:04:03: run with --set php /usr/bin/php7.1
+update-alternatives 2021-08-05 15:11:19: run with --set php /usr/bin/php7.1
+update-alternatives 2021-08-09 11:18:56: run with --set php /usr/bin/php7.1
+update-alternatives 2021-08-09 11:24:01: run with --set php /usr/bin/php7.1
+update-alternatives 2021-08-09 18:32:34: run with --set php /usr/bin/php7.1
+update-alternatives 2021-08-10 12:39:13: run with --set php /usr/bin/php7.1
+update-alternatives 2021-08-10 12:52:17: run with --set php /usr/bin/php7.1
+update-alternatives 2021-08-10 17:19:00: run with --set php /usr/bin/php7.1
+update-alternatives 2021-08-11 10:30:59: run with --set php /usr/bin/php7.1
+update-alternatives 2021-08-11 11:33:09: run with --set php /usr/bin/php7.1
+update-alternatives 2021-08-12 17:01:22: run with --set php /usr/bin/php7.1
+update-alternatives 2021-08-13 12:18:05: run with --set php /usr/bin/php7.1
+update-alternatives 2021-08-16 10:47:43: run with --set php /usr/bin/php7.1
+update-alternatives 2021-08-17 11:04:09: run with --set php /usr/bin/php7.1
+update-alternatives 2021-08-18 10:37:39: run with --set php /usr/bin/php7.1
+update-alternatives 2021-08-20 11:19:15: run with --set php /usr/bin/php7.1
+update-alternatives 2021-08-23 10:30:07: run with --set php /usr/bin/php7.1
+update-alternatives 2021-08-24 10:35:27: run with --set php /usr/bin/php7.1
+update-alternatives 2021-08-24 18:51:22: run with --set php /usr/bin/php7.1
+update-alternatives 2021-08-24 18:51:22: status of link group /usr/bin/php set to manual
+update-alternatives 2021-08-24 18:51:22: link group php updated to point to /usr/bin/php7.1
+update-alternatives 2021-08-25 11:25:57: run with --set php /usr/bin/php7.1
+update-alternatives 2021-08-26 10:44:30: run with --set php /usr/bin/php7.1
+update-alternatives 2021-08-27 10:45:24: run with --set php /usr/bin/php7.1
+update-alternatives 2021-08-30 10:31:03: run with --set php /usr/bin/php7.1
+update-alternatives 2021-08-31 12:49:20: run with --set php /usr/bin/php7.1
+update-alternatives 2021-09-01 12:32:38: run with --set php /usr/bin/php7.1
+update-alternatives 2021-09-02 10:33:15: run with --set php /usr/bin/php7.1
+update-alternatives 2021-09-02 12:05:56: run with --set php /usr/bin/php7.1
+update-alternatives 2021-09-03 10:33:02: run with --set php /usr/bin/php7.1
+update-alternatives 2021-09-06 10:56:44: run with --set php /usr/bin/php7.1
+update-alternatives 2021-09-07 10:25:14: run with --set php /usr/bin/php7.1
+update-alternatives 2021-09-08 10:39:17: run with --set php /usr/bin/php7.1
+update-alternatives 2021-09-09 10:42:43: run with --set php /usr/bin/php7.1
+update-alternatives 2021-09-09 20:13:37: run with --set php /usr/bin/php7.1
+update-alternatives 2021-09-10 11:27:18: run with --set php /usr/bin/php7.1
+update-alternatives 2021-09-13 10:31:27: run with --set php /usr/bin/php7.1
+update-alternatives 2021-09-14 12:16:54: run with --set php /usr/bin/php7.1
+update-alternatives 2021-09-15 11:19:39: run with --set php /usr/bin/php7.1
+update-alternatives 2021-09-15 11:22:56: run with --set php /usr/bin/php7.1
+update-alternatives 2021-09-15 16:55:52: run with --set php /usr/bin/php7.1
+update-alternatives 2021-09-16 11:18:41: run with --set php /usr/bin/php7.1
+update-alternatives 2021-09-17 16:58:58: run with --set php /usr/bin/php7.1
+update-alternatives 2021-09-20 10:40:08: run with --set php /usr/bin/php7.1
+update-alternatives 2021-09-21 11:24:29: run with --set php /usr/bin/php7.1
+update-alternatives 2021-09-21 12:35:02: run with --set php /usr/bin/php7.1
+update-alternatives 2021-09-21 12:38:21: run with --set php /usr/bin/php7.1
+update-alternatives 2021-09-21 13:15:58: run with --set php /usr/bin/php7.1
+update-alternatives 2021-09-21 13:19:28: run with --set php /usr/bin/php7.1
+update-alternatives 2021-09-22 12:02:22: run with --set php /usr/bin/php7.1
+update-alternatives 2021-09-23 10:54:37: run with --set php /usr/bin/php7.1
+update-alternatives 2021-09-24 10:40:58: run with --set php /usr/bin/php7.1
+update-alternatives 2021-09-27 11:04:29: run with --set php /usr/bin/php7.1
+update-alternatives 2021-09-28 10:43:31: run with --set php /usr/bin/php7.1
+update-alternatives 2021-09-29 10:26:45: run with --set php /usr/bin/php7.1
+update-alternatives 2021-09-30 10:30:31: run with --set php /usr/bin/php7.1
+update-alternatives 2021-10-01 11:03:09: run with --set php /usr/bin/php7.1
+update-alternatives 2021-10-04 19:27:17: run with --set php /usr/bin/php7.1
+update-alternatives 2021-10-05 10:40:18: run with --set php /usr/bin/php7.1
+update-alternatives 2021-10-05 13:23:08: run with --set php /usr/bin/php7.1
+update-alternatives 2021-10-05 13:23:21: run with --set php /usr/bin/php7.1
+update-alternatives 2021-10-05 14:00:12: run with --set php /usr/bin/php7.1
+update-alternatives 2021-10-05 14:00:12: status of link group /usr/bin/php set to manual
+update-alternatives 2021-10-05 14:00:12: link group php updated to point to /usr/bin/php7.1
+update-alternatives 2021-10-05 15:15:02: run with --set php /usr/bin/php7.1
+update-alternatives 2021-10-05 15:15:02: status of link group /usr/bin/php set to manual
+update-alternatives 2021-10-05 15:15:02: link group php updated to point to /usr/bin/php7.1
+update-alternatives 2021-10-05 15:34:02: run with --set php /usr/bin/php7.1
+update-alternatives 2021-10-05 16:22:28: run with --set php /usr/bin/php7.1
+update-alternatives 2021-10-05 16:32:31: run with --set php /usr/bin/php7.1
+update-alternatives 2021-10-05 16:52:04: run with --set php /usr/bin/php7.1
+update-alternatives 2021-10-05 17:46:31: run with --set php /usr/bin/php7.1
+update-alternatives 2021-10-06 10:48:42: run with --set php /usr/bin/php7.1
+update-alternatives 2021-10-07 12:41:07: run with --set php /usr/bin/php7.1
+update-alternatives 2021-10-07 12:59:29: run with --set php /usr/bin/php7.1
+update-alternatives 2021-10-08 12:09:06: run with --set php /usr/bin/php7.1
+update-alternatives 2021-10-09 19:29:47: run with --set php /usr/bin/php7.1
+update-alternatives 2021-10-09 20:59:46: run with --set php /usr/bin/php7.1
+update-alternatives 2021-10-11 11:07:07: run with --set php /usr/bin/php7.1
+update-alternatives 2021-10-11 21:08:37: run with --set php /usr/bin/php7.1
+update-alternatives 2021-10-12 11:02:08: run with --set php /usr/bin/php7.1
+update-alternatives 2021-10-13 10:31:29: run with --set php /usr/bin/php7.1
+update-alternatives 2021-10-13 20:19:33: run with --set php /usr/bin/php7.1
+update-alternatives 2021-10-14 12:28:42: run with --set php /usr/bin/php7.1
+update-alternatives 2021-10-15 12:43:02: run with --set php /usr/bin/php7.1
+update-alternatives 2021-10-15 18:58:15: run with --set php /usr/bin/php7.1
+update-alternatives 2021-10-15 18:58:15: status of link group /usr/bin/php set to manual
+update-alternatives 2021-10-15 18:58:15: link group php updated to point to /usr/bin/php7.1
+update-alternatives 2021-10-15 19:13:06: run with --set php /usr/bin/php7.1
+update-alternatives 2021-10-15 19:13:06: status of link group /usr/bin/php set to manual
+update-alternatives 2021-10-15 19:13:06: link group php updated to point to /usr/bin/php7.1
+update-alternatives 2021-10-18 12:29:02: run with --set php /usr/bin/php7.1
+update-alternatives 2021-10-18 12:55:54: run with --set php /usr/bin/php7.1
+update-alternatives 2021-10-18 13:48:37: run with --set php /usr/bin/php7.1
+update-alternatives 2021-10-18 13:48:37: status of link group /usr/bin/php set to manual
+update-alternatives 2021-10-18 13:48:37: link group php updated to point to /usr/bin/php7.1
+update-alternatives 2021-10-18 15:11:59: run with --set php /usr/bin/php7.1
+update-alternatives 2021-10-18 15:11:59: status of link group /usr/bin/php set to manual
+update-alternatives 2021-10-18 15:11:59: link group php updated to point to /usr/bin/php7.1
+update-alternatives 2021-10-18 17:29:51: run with --set php /usr/bin/php7.1
+update-alternatives 2021-10-18 17:29:51: status of link group /usr/bin/php set to manual
+update-alternatives 2021-10-18 17:29:51: link group php updated to point to /usr/bin/php7.1
+update-alternatives 2021-10-20 12:50:43: run with --set php /usr/bin/php7.1
+update-alternatives 2021-10-20 16:17:17: run with --set php /usr/bin/php7.1
+update-alternatives 2021-10-21 11:20:59: run with --set php /usr/bin/php7.1
+update-alternatives 2021-10-22 10:58:32: run with --set php /usr/bin/php7.1
+update-alternatives 2021-10-25 12:45:48: run with --set php /usr/bin/php7.1
+update-alternatives 2021-10-25 12:45:48: status of link group /usr/bin/php set to manual
+update-alternatives 2021-10-25 12:45:48: link group php updated to point to /usr/bin/php7.1
+update-alternatives 2021-10-26 12:44:45: run with --set php /usr/bin/php7.1
+update-alternatives 2021-10-26 17:03:49: run with --set php /usr/bin/php7.1
+update-alternatives 2021-10-27 10:53:18: run with --set php /usr/bin/php7.1
+update-alternatives 2021-10-27 10:53:18: status of link group /usr/bin/php set to manual
+update-alternatives 2021-10-27 10:53:18: link group php updated to point to /usr/bin/php7.1
+update-alternatives 2021-10-27 10:54:31: run with --set php /usr/bin/php7.1
+update-alternatives 2021-10-28 12:16:47: run with --set php /usr/bin/php7.1
+update-alternatives 2021-10-29 12:06:14: run with --set php /usr/bin/php7.1
+update-alternatives 2021-11-01 11:01:20: run with --set php /usr/bin/php7.1
+update-alternatives 2021-11-02 10:38:17: run with --set php /usr/bin/php7.1
+update-alternatives 2021-11-04 10:23:09: run with --set php /usr/bin/php7.1
+update-alternatives 2021-11-05 13:02:37: run with --set php /usr/bin/php7.1
+update-alternatives 2021-11-08 11:22:09: run with --set php /usr/bin/php7.1
+update-alternatives 2021-11-09 10:36:46: run with --set php /usr/bin/php7.1
+update-alternatives 2021-11-10 11:21:29: run with --set php /usr/bin/php7.1
+update-alternatives 2021-11-11 11:10:02: run with --set php /usr/bin/php7.1
+update-alternatives 2021-11-12 11:27:35: run with --set php /usr/bin/php7.1
+update-alternatives 2021-11-15 11:09:44: run with --set php /usr/bin/php7.1
+update-alternatives 2021-11-17 10:59:49: run with --set php /usr/bin/php7.1
+update-alternatives 2021-11-17 17:04:53: run with --set php /usr/bin/php7.1
+update-alternatives 2021-11-18 10:31:48: run with --set php /usr/bin/php7.1
+update-alternatives 2021-11-19 10:55:02: run with --set php /usr/bin/php7.1
+update-alternatives 2021-11-22 11:15:36: run with --set php /usr/bin/php7.1
+update-alternatives 2021-11-23 11:17:41: run with --set php /usr/bin/php7.1
+update-alternatives 2021-11-26 15:47:56: run with --set php /usr/bin/php7.1
+update-alternatives 2021-11-26 18:15:39: run with --set php /usr/bin/php7.1
+update-alternatives 2021-11-26 18:34:02: run with --set php /usr/bin/php7.1
+update-alternatives 2021-11-26 18:34:02: status of link group /usr/bin/php set to manual
+update-alternatives 2021-11-26 18:34:02: link group php updated to point to /usr/bin/php7.1
+update-alternatives 2021-11-26 18:34:37: run with --set php /usr/bin/php7.1
+update-alternatives 2021-11-29 16:09:21: run with --set php /usr/bin/php7.1
+update-alternatives 2021-11-30 12:23:29: run with --set php /usr/bin/php7.1
+update-alternatives 2021-11-30 12:44:46: run with --set php /usr/bin/php7.1
+update-alternatives 2021-12-01 11:42:47: run with --set php /usr/bin/php7.1
+update-alternatives 2021-12-02 16:24:22: run with --set php /usr/bin/php7.1
+update-alternatives 2021-12-06 15:54:38: run with --set php /usr/bin/php7.1
+update-alternatives 2021-12-06 16:52:34: run with --set php /usr/bin/php7.1
+update-alternatives 2021-12-06 16:52:34: status of link group /usr/bin/php set to manual
+update-alternatives 2021-12-06 16:52:34: link group php updated to point to /usr/bin/php7.1
+update-alternatives 2021-12-07 12:39:16: run with --set php /usr/bin/php7.1
+update-alternatives 2021-12-08 11:28:27: run with --set php /usr/bin/php7.1
+update-alternatives 2021-12-09 10:30:12: run with --set php /usr/bin/php7.1
+update-alternatives 2021-12-10 11:23:00: run with --set php /usr/bin/php7.1
+update-alternatives 2021-12-13 12:05:49: run with --set php /usr/bin/php7.1
+update-alternatives 2021-12-13 12:20:15: run with --set php /usr/bin/php7.1
+update-alternatives 2021-12-14 11:35:20: run with --set php /usr/bin/php7.1
+update-alternatives 2021-12-15 11:49:07: run with --set php /usr/bin/php7.1
+update-alternatives 2021-12-21 12:47:06: run with --set php /usr/bin/php7.1
+update-alternatives 2021-12-22 11:52:02: run with --set php /usr/bin/php7.1
+update-alternatives 2021-12-29 10:48:23: run with --set php /usr/bin/php7.1
+update-alternatives 2021-12-29 12:15:10: run with --set php /usr/bin/php7.1
+update-alternatives 2021-12-30 15:26:04: run with --set php /usr/bin/php7.1
+update-alternatives 2021-12-31 12:08:30: run with --set php /usr/bin/php7.1
+update-alternatives 2022-01-03 10:56:09: run with --set php /usr/bin/php7.1
+update-alternatives 2022-01-04 11:20:12: run with --set php /usr/bin/php7.1
+update-alternatives 2022-01-05 13:46:07: run with --set php /usr/bin/php7.1
+update-alternatives 2022-01-06 12:40:45: run with --set php /usr/bin/php7.1
+update-alternatives 2022-01-07 13:14:06: run with --set php /usr/bin/php7.1
+update-alternatives 2022-01-10 11:26:14: run with --set php /usr/bin/php7.1
+update-alternatives 2022-01-14 10:51:34: run with --set php /usr/bin/php7.1
+update-alternatives 2022-01-17 12:00:02: run with --set php /usr/bin/php7.1
+update-alternatives 2022-01-17 12:01:38: run with --set php /usr/bin/php7.4
+update-alternatives 2022-01-17 12:01:38: link group php updated to point to /usr/bin/php7.4
+update-alternatives 2022-01-17 12:19:16: run with --set php /usr/bin/php7.1
+update-alternatives 2022-01-17 12:19:16: status of link group /usr/bin/php set to manual
+update-alternatives 2022-01-17 12:19:16: link group php updated to point to /usr/bin/php7.1
+update-alternatives 2022-01-17 12:27:55: run with --set php /usr/bin/php7.1
+update-alternatives 2022-01-17 12:27:55: status of link group /usr/bin/php set to manual
+update-alternatives 2022-01-17 12:27:55: link group php updated to point to /usr/bin/php7.1
+update-alternatives 2022-01-17 12:30:05: run with --set php /usr/bin/php7.1
+update-alternatives 2022-01-17 12:41:09: run with --set php /usr/bin/php7.1
+update-alternatives 2022-01-20 16:07:31: run with --set php /usr/bin/php7.1
+update-alternatives 2022-01-20 16:17:32: run with --set php /usr/bin/php7.1
+update-alternatives 2022-01-20 16:17:32: status of link group /usr/bin/php set to manual
+update-alternatives 2022-01-20 16:17:32: link group php updated to point to /usr/bin/php7.1
+update-alternatives 2022-01-20 16:17:47: run with --set php /usr/bin/php7.1
+update-alternatives 2022-01-21 10:59:37: run with --set php /usr/bin/php7.1
+update-alternatives 2022-01-21 10:59:37: status of link group /usr/bin/php set to manual
+update-alternatives 2022-01-21 10:59:37: link group php updated to point to /usr/bin/php7.1
+update-alternatives 2022-01-21 11:01:26: run with --set php /usr/bin/php7.1
+update-alternatives 2022-01-21 11:25:02: run with --set php /usr/bin/php7.1
+update-alternatives 2022-01-21 11:25:02: status of link group /usr/bin/php set to manual
+update-alternatives 2022-01-21 11:25:02: link group php updated to point to /usr/bin/php7.1
+update-alternatives 2022-01-21 12:02:10: run with --set php /usr/bin/php7.1
+update-alternatives 2022-01-21 12:31:44: run with --set php /usr/bin/php7.1
+update-alternatives 2022-01-21 12:31:44: status of link group /usr/bin/php set to manual
+update-alternatives 2022-01-21 12:31:44: link group php updated to point to /usr/bin/php7.1
+update-alternatives 2022-01-21 13:07:31: run with --set php /usr/bin/php7.1
+update-alternatives 2022-01-21 13:41:15: run with --set php /usr/bin/php7.1
+update-alternatives 2022-01-21 13:41:15: status of link group /usr/bin/php set to manual
+update-alternatives 2022-01-21 13:41:15: link group php updated to point to /usr/bin/php7.1
+update-alternatives 2022-01-21 13:41:51: run with --set php /usr/bin/php7.1
+update-alternatives 2022-01-21 14:20:00: run with --set php /usr/bin/php7.1
+update-alternatives 2022-01-21 14:20:00: status of link group /usr/bin/php set to manual
+update-alternatives 2022-01-21 14:20:00: link group php updated to point to /usr/bin/php7.1
+update-alternatives 2022-01-21 15:20:26: run with --set php /usr/bin/php7.1
+update-alternatives 2022-01-21 15:20:26: status of link group /usr/bin/php set to manual
+update-alternatives 2022-01-21 15:20:26: link group php updated to point to /usr/bin/php7.1
+update-alternatives 2022-01-21 18:29:01: run with --set php /usr/bin/php7.1
+update-alternatives 2022-01-24 12:38:12: run with --set php /usr/bin/php7.1
+update-alternatives 2022-01-24 12:43:56: run with --set php /usr/bin/php7.1
+update-alternatives 2022-01-24 16:31:33: run with --set php /usr/bin/php7.4
+update-alternatives 2022-01-24 16:31:33: link group php updated to point to /usr/bin/php7.4
+update-alternatives 2022-01-25 13:09:34: run with --set php /usr/bin/php7.1
+update-alternatives 2022-01-25 13:09:34: link group php updated to point to /usr/bin/php7.1
+update-alternatives 2022-01-25 13:29:30: run with --set php /usr/bin/php7.1
+update-alternatives 2022-01-25 13:29:30: status of link group /usr/bin/php set to manual
+update-alternatives 2022-01-25 13:29:30: link group php updated to point to /usr/bin/php7.1
+update-alternatives 2022-01-25 14:02:30: run with --set php /usr/bin/php7.1
+update-alternatives 2022-01-25 14:02:30: status of link group /usr/bin/php set to manual
+update-alternatives 2022-01-25 14:02:30: link group php updated to point to /usr/bin/php7.1
+update-alternatives 2022-01-25 15:07:44: run with --set php /usr/bin/php7.1
+update-alternatives 2022-01-25 15:07:44: status of link group /usr/bin/php set to manual
+update-alternatives 2022-01-25 15:07:44: link group php updated to point to /usr/bin/php7.1
+update-alternatives 2022-01-25 16:08:32: run with --set php /usr/bin/php7.1
+update-alternatives 2022-01-25 16:48:51: run with --set php /usr/bin/php7.1
+update-alternatives 2022-01-25 16:48:51: status of link group /usr/bin/php set to manual
+update-alternatives 2022-01-25 16:48:51: link group php updated to point to /usr/bin/php7.1
+update-alternatives 2022-01-25 17:23:34: run with --set php /usr/bin/php7.1
+update-alternatives 2022-01-25 17:23:34: status of link group /usr/bin/php set to manual
+update-alternatives 2022-01-25 17:23:34: link group php updated to point to /usr/bin/php7.1
+update-alternatives 2022-01-26 12:38:33: run with --set php /usr/bin/php7.1
+update-alternatives 2022-01-26 13:41:59: run with --set php /usr/bin/php7.1
+update-alternatives 2022-01-27 15:22:05: run with --set php /usr/bin/php7.1
+update-alternatives 2022-01-31 11:56:33: run with --set php /usr/bin/php7.1
+update-alternatives 2022-01-31 12:30:32: run with --set php /usr/bin/php7.1
+update-alternatives 2022-01-31 16:20:26: run with --set php /usr/bin/php7.1
+update-alternatives 2022-02-04 12:57:59: run with --set php /usr/bin/php7.1
+update-alternatives 2022-02-04 17:21:25: run with --set php /usr/bin/php7.4
+update-alternatives 2022-02-04 17:21:25: status of link group /usr/bin/php set to manual
+update-alternatives 2022-02-04 17:21:25: link group php updated to point to /usr/bin/php7.4
+update-alternatives 2022-02-04 17:21:52: run with --set php /usr/bin/php7.4
+update-alternatives 2022-02-04 17:22:27: run with --set php /usr/bin/php7.4
+update-alternatives 2022-02-04 17:22:32: run with --set php /usr/bin/php7.4
+update-alternatives 2022-02-04 17:23:01: run with --set php /usr/bin/php7.4
+update-alternatives 2022-02-04 17:23:01: status of link group /usr/bin/php set to manual
+update-alternatives 2022-02-04 17:23:01: link group php updated to point to /usr/bin/php7.4
+update-alternatives 2022-02-04 17:30:35: run with --set php /usr/bin/php7.4
+update-alternatives 2022-02-14 12:52:08: run with --set php /usr/bin/php7.4
+update-alternatives 2022-02-14 13:31:58: run with --set php /usr/bin/php7.4
+update-alternatives 2022-02-14 13:31:58: status of link group /usr/bin/php set to manual
+update-alternatives 2022-02-14 13:31:58: link group php updated to point to /usr/bin/php7.4
+update-alternatives 2022-02-14 13:44:34: run with --set php /usr/bin/php7.4
+update-alternatives 2022-02-14 14:24:20: run with --set php /usr/bin/php7.4
+update-alternatives 2022-02-14 14:24:20: status of link group /usr/bin/php set to manual
+update-alternatives 2022-02-14 14:24:20: link group php updated to point to /usr/bin/php7.4
+update-alternatives 2022-02-14 18:08:19: run with --set php /usr/bin/php7.4
+update-alternatives 2022-02-14 18:16:52: run with --set php /usr/bin/php7.4
+update-alternatives 2022-02-14 18:16:52: status of link group /usr/bin/php set to manual
+update-alternatives 2022-02-14 18:16:52: link group php updated to point to /usr/bin/php7.4
+update-alternatives 2022-02-14 18:31:57: run with --set php /usr/bin/php7.4
+update-alternatives 2022-02-14 18:31:57: status of link group /usr/bin/php set to manual
+update-alternatives 2022-02-14 18:31:57: link group php updated to point to /usr/bin/php7.4
+update-alternatives 2022-02-14 18:35:19: run with --set php /usr/bin/php7.4
+update-alternatives 2022-02-14 18:35:19: status of link group /usr/bin/php set to manual
+update-alternatives 2022-02-14 18:35:19: link group php updated to point to /usr/bin/php7.4
+update-alternatives 2022-02-14 18:42:23: run with --set php /usr/bin/php7.4
+update-alternatives 2022-02-14 18:42:23: status of link group /usr/bin/php set to manual
+update-alternatives 2022-02-14 18:42:23: link group php updated to point to /usr/bin/php7.4
+update-alternatives 2022-02-14 19:17:01: run with --set php /usr/bin/php7.4
+update-alternatives 2022-02-14 19:17:01: status of link group /usr/bin/php set to manual
+update-alternatives 2022-02-14 19:17:01: link group php updated to point to /usr/bin/php7.4

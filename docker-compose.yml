@@ -7,10 +7,9 @@ services:
    - "80:80"
   volumes:
    - ./www:/var/www/html
-   - ./sites-available:/etc/apache2/sites-available
-   - ./logvolume:/var/log
   depends_on:
    - mysql
+   - cache
   environment:
    DOCKER_PMA_HOST: mysql
    DOCKER_PMA_USER: 'root'
@@ -28,10 +27,18 @@ services:
    MYSQL_PASSWORD: 'secret'
    MYSQL_ROOT_PASSWORD: '1q2w3e4r5t'
   ports:
-   - "3306"
+   - "3306:3306"
   volumes:
    - ./databases/:/var/lib/mysql
+ cache:
+  container_name: cache_server
+  image: redis:6.2-alpine
+  restart: always
+  ports:
+    - '6379:6379'
+  command: redis-server --save 20 1 --loglevel warning --requirepass eYVX7EwVmmxKPCDmwMtyKVge8oLd2t81
+  volumes: 
+    - cache:/data
 volumes:
- databases:
- logvolume:
-
+  cache:
+    driver: local
