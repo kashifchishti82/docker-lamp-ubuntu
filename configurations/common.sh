@@ -1,5 +1,6 @@
 #!/bin/bash
-echo "Running bash script"
+
+echo "Running Bash Script ......"
 
 update-alternatives --set php /usr/bin/php8.1
 update-alternatives --install /usr/bin/python python /usr/bin/python3 10
