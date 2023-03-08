@@ -1,20 +1,22 @@
 FROM ubuntu:22.04
 
 ENV DEBIAN_FRONTEND noninteractive
+SHELL ["/bin/bash", "-c"]
 
 RUN \
   rm -rf /var/lib/apt/lists/* && \
   apt-get update && apt-get install apache2 software-properties-common -y && \
-  apt update && add-apt-repository ppa:ondrej/php -y && apt-get update && \
-  apt-get install -y fonts-liberation  libapache2-mod-fcgid wget unzip curl php7.4-fpm php7.4-common php7.4-mysql php7.4-xml libapache2-mod-wsgi-py3 \
-  libatk-bridge2.0-0 libasound2 libatk1.0-0 libatspi2.0-0 libcairo2 libdrm2 libgbm1 libgtk-3-0 libnspr4 libnss3 libpango-1.0-0 libu2f-udev \
-  libvulkan1 libxcomposite1 libxdamage1 libxfixes3 libxkbcommon0 libxrandr2 xdg-utils \
-  php7.4-xmlrpc php7.4-curl php7.4-gd php7.4-imagick php7.4-cli php7.4-dev php7.4-imap php7.4-mbstring \
-  php7.4-soap php7.4-zip php7.4-bcmath php7.4-intl php8.1-fpm php8.1-common php8.1-mysql php8.1-xml \
-  php8.1-xmlrpc php8.1-curl php8.1-gd php8.1-imagick php8.1-cli php8.1-dev php8.1-imap php8.1-mbstring \
-  php8.1-soap php8.1-zip php8.1-bcmath php8.1-intl php8.1-swoole php7.1-fpm php7.1-common php7.1-mysql \
-  php7.1-xml php7.1-xmlrpc php7.1-curl php7.1-gd php7.1-imagick php7.1-intl php7.1-cli php7.1-dev php7.1-imap \
-  php7.1-mbstring php7.1-soap php7.1-zip php7.1-bcmath && curl -fsSL https://deb.nodesource.com/setup_16.x | bash - && \
+  apt-get update -y && add-apt-repository ppa:ondrej/php -y && apt-get update -y && apt-get install -y libasound2 libatk1.0-0 libatspi2.0-0 libcairo2 libdrm2 libgbm1 wget unzip curl \
+  libapache2-mod-wsgi-py3 fonts-liberation nano libgtk-3-0 libnspr4 libnss3 libpango-1.0-0 libu2f-udev libvulkan1 libxcomposite1 libxdamage1 libxfixes3 libxkbcommon0 libxrandr2 xdg-utils libapache2-mod-fcgid \
+  php7.0 php7.0-{fpm,common,mysql,xml,xmlrpc,curl,gd,imagick,cli,dev,imap,mbstring,soap,zip,bcmath,intl,opcache,bcmath,mongodb} \
+  php7.1 php7.1-{fpm,common,mysql,xml,xmlrpc,curl,gd,imagick,cli,dev,imap,mbstring,soap,zip,bcmath,intl,opcache,bcmath,mongodb} \
+  php7.2 php7.2-{fpm,common,mysql,xml,xmlrpc,curl,gd,imagick,cli,dev,imap,mbstring,soap,zip,bcmath,intl,opcache,bcmath,mongodb} \
+  php7.3 php7.3-{fpm,common,mysql,xml,xmlrpc,curl,gd,imagick,cli,dev,imap,mbstring,soap,zip,bcmath,intl,opcache,bcmath,mongodb} \
+  php7.4 php7.4-{fpm,common,mysql,xml,xmlrpc,curl,gd,imagick,cli,dev,imap,mbstring,soap,zip,bcmath,intl,opcache,bcmath,mongodb} \
+  php8.0 php8.0-{fpm,common,mysql,xml,xmlrpc,curl,gd,imagick,cli,dev,imap,mbstring,soap,zip,bcmath,intl,opcache,swoole,bcmath,mongodb} \
+  php8.1 php8.1-{fpm,common,mysql,xml,xmlrpc,curl,gd,imagick,cli,dev,imap,mbstring,soap,zip,bcmath,intl,opcache,swoole,bcmath,mongodb} \
+  php8.2 php8.2-{fpm,common,mysql,xml,xmlrpc,curl,gd,imagick,cli,dev,imap,mbstring,soap,zip,bcmath,intl,opcache,swoole,bcmath,mongodb} && \ 
+  curl -fsSL https://deb.nodesource.com/setup_16.x | bash - && \
   apt install -y nodejs && npm install -g yarn && curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.1/install.sh | bash && \
   apt-get install -f -y && wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb && dpkg -i google-chrome*.deb && \
   curl -sS https://getcomposer.org/installer -o /tmp/composer-setup.php && HASH=`curl -sS https://composer.github.io/installer.sig` && \
@@ -40,6 +42,6 @@ RUN chmod +x common.sh && perl -pi -e 's/\r\n/\n/g' common.sh
 
 WORKDIR /var/www/html
 
-EXPOSE 80
+EXPOSE 80 6001
 
 CMD /common.sh && apachectl -DFOREGROUND
