@@ -42,6 +42,6 @@ RUN chmod +x common.sh && perl -pi -e 's/\r\n/\n/g' common.sh
 
 WORKDIR /var/www/html
 
-EXPOSE 80 6001
+EXPOSE 80
 
 CMD /common.sh && apachectl -DFOREGROUND
